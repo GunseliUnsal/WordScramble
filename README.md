@@ -4,7 +4,8 @@ WordScramble is a fun word game. Players get a random word and make as many word
 </p>
 
 <p align="center">
-  <img src="app.gif" alt="App Screenshot" width="200" />
+  <img src="app.gif" alt="App Screenshot" width="200"/>
+  <img src="app2.gif" alt="App Screenshot" width="200" />
 </p>
 
 <h2>Usage</h2>
