@@ -22,7 +22,7 @@ WordScramble is a fun word game. Players get a random word and make as many word
 <p>To clone and run this project locally, follow these steps:</p>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/username/wordscramble.git</code></pre>
+    <pre><code>git clone https://github.com/GunseliUnsal/wordscramble.git</code></pre>
   </li>
   <li>Navigate to the project directory:
     <pre><code>cd wordscramble</code></pre>
