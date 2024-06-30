@@ -16,18 +16,3 @@ WordScramble is a fun word game. Players get a random word and make as many word
   <li>Earn points by finding correct words.</li>
   <li>Watch the confetti animation when you surpass your high score.</li>
 </ol>
-
-
-<h2>Installation</h2>
-<p>To clone and run this project locally, follow these steps:</p>
-<ol>
-  <li>Clone the repository:
-    <pre><code>git clone https://github.com/GunseliUnsal/wordscramble.git</code></pre>
-  </li>
-  <li>Navigate to the project directory:
-    <pre><code>cd wordscramble</code></pre>
-  </li>
-  <li>Open Xcode and launch the project:
-    <pre><code>open WordScramble.xcodeproj</code></pre>
-  </li>
-</ol>
